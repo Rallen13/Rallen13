@@ -16,9 +16,13 @@
   <a href="https://www.linkedin.com/in/rachel-lynn-allen/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://terminal.turing.edu/profiles/1445">
+    <img src="https://img.shields.io/badge/Portfolio-5C8001?style=for-the-badge" alt="Turing Portfolio Badge"/>
+  </a>
 </div>
 
 ---
+
 ### :space_invader: About Me :
 I am a Front-End Software Engineer Student @ Turing School of Software and Design.
 
@@ -28,4 +32,13 @@ I am a Front-End Software Engineer Student @ Turing School of Software and Desig
 
 - :mountain: In my free time, I like doing anything outdoors.
 
+---
 
+### :hammer_and_wrench: Languages and Tools :
+
+---
+
+### :fire: My Stats :
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Rallen13/langs?time_range=one_year&theme=dark)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Rallen13/repos?time_range=one_year&theme=dark)](https://githubtrends.io)
