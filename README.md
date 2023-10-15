@@ -6,7 +6,7 @@
   Rachel Allen
 </h1>  
 <h3 align="center">
-  Front-End Software Engineer, Former Doctor of Physical Therapy
+  Front-End Software Engineer, Doctor of Physical Therapy
 </h3>
 
 <div id="badges" align="center">
